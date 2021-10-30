@@ -1,1 +1,1 @@
-n=gets;puts"mkesSraRNEtATo".index(n[(n.size-1)/2])+1
+n=gets;puts" mNrsAgcUTPvnIo".index(n[45%n.size])
