@@ -1,1 +1,1 @@
-n=gets;puts" mNrsAgcUTPvnIo".index(n[45%n.size])
+n=gets;p'= KrpSgaUNEeloA'.index(n[n.ord%5])
